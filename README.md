@@ -11,8 +11,11 @@ A simple Python script to automatically organize files into categorized folders 
 
 
 ## 🛠 Installation
-No external dependencies are required. This script runs with standard Python libraries.
-
+- Clone this repository :
+```bash
+git clone https://github.com/LaithALhaware/Web-Scraper-for-News-Websites.git
+cd 'Web-Scraper-for-News-Websites'
+```
 
 ## ▶️ Usage
 1️⃣ Run the script:
