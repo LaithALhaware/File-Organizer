@@ -1,5 +1,6 @@
 # 📂 File Organizer
-
+- [النسخة العربية](AR-README.md)
+  
 A simple Python script to automatically organize files into categorized folders based on their extensions. 🚀
 
 ## ✨ Features
