@@ -42,12 +42,12 @@ Downloads/
 ## 🔧 Requirements
 - Python 3.x 🐍 
 
+## 📝 License
+[[License](LICENSE)] ⚖️
+
 ## ❤️ Support This Project
 If you find this project useful, consider supporting its development:
 
 💰 Via PayPal: [[PayPal Link](https://www.paypal.com/ncp/payment/KC9EETJDVZQHG)]
 
 Your support helps keep this project alive! 🚀🔥
-
-## 📝 License
-[[License](License)] ⚖️
