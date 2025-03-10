@@ -16,6 +16,7 @@ No external dependencies are required. This script runs with standard Python lib
    python organizer.py
    ```
 2️⃣ Enter the directory path you want to organize.
+
 3️⃣ The script will sort the files into appropriate 📂 folders.
 
 ## 📌 Example
