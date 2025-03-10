@@ -1,24 +1,24 @@
-# File Organizer
+# 📂 File Organizer
 
-A simple Python script to automatically organize files into categorized folders based on their extensions.
+A simple Python script to automatically organize files into categorized folders based on their extensions. 🚀
 
-## Features
-- Moves files into categories (Images, Documents, Videos, etc.).
-- Supports multiple file formats.
-- Easy to use: Just provide the directory path.
+## ✨ Features
+- ✅ Moves files into categories (📸 Images, 📄 Documents, 🎥 Videos, etc.).
+- ✅ Supports multiple file formats.
+- ✅ Easy to use: Just provide the directory path.
 
-## Installation
+## 🛠 Installation
 No external dependencies are required. This script runs with standard Python libraries.
 
-## Usage
-1. Run the script:
+## ▶️ Usage
+1️⃣ Run the script:
    ```bash
    python organizer.py
    ```
-2. Enter the directory path you want to organize.
-3. The script will sort the files into appropriate folders.
+2️⃣ Enter the directory path you want to organize.
+3️⃣ The script will sort the files into appropriate 📂 folders.
 
-## Example
+## 📌 Example
 Before:
 ```
 Downloads/
@@ -37,5 +37,5 @@ Downloads/
 │   └── song.mp3
 ```
 
-## Requirements
-- Python 3.x
+## 🔧 Requirements
+- Python 3.x 🐍 
