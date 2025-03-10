@@ -3,13 +3,16 @@
   
 A simple Python script to automatically organize files into categorized folders based on their extensions. 🚀
 
+
 ## ✨ Features
 - ✅ Moves files into categories (📸 Images, 📄 Documents, 🎥 Videos, etc.).
 - ✅ Supports multiple file formats.
 - ✅ Easy to use: Just provide the directory path.
 
+
 ## 🛠 Installation
 No external dependencies are required. This script runs with standard Python libraries.
+
 
 ## ▶️ Usage
 1️⃣ Run the script:
@@ -19,6 +22,7 @@ No external dependencies are required. This script runs with standard Python lib
 2️⃣ Enter the directory path you want to organize.
 
 3️⃣ The script will sort the files into appropriate 📂 folders.
+
 
 ## 📌 Example
 Before:
@@ -39,11 +43,14 @@ Downloads/
 │   └── song.mp3
 ```
 
+
 ## 🔧 Requirements
 - Python 3.x 🐍 
 
+
 ## 📝 License
 [[License](LICENSE)] ⚖️
+
 
 ## ❤️ Support This Project
 If you find this project useful, consider supporting its development:
