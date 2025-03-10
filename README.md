@@ -13,8 +13,8 @@ A simple Python script to automatically organize files into categorized folders 
 ## 🛠 Installation
 - Clone this repository :
 ```bash
-git clone https://github.com/LaithALhaware/Web-Scraper-for-News-Websites.git
-cd 'Web-Scraper-for-News-Websites'
+git clone https://github.com/LaithALhaware/File-Organizer.git
+cd 'File-Organizer'
 ```
 
 ## ▶️ Usage
