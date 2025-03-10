@@ -11,7 +11,7 @@ A simple Python script to automatically organize files into categorized folders 
 
 
 ## 🛠 Installation
-- Clone this repository :
+- Clone the repository or download the project files to your local machine. 📂  :
 ```bash
 git clone https://github.com/LaithALhaware/File-Organizer.git
 cd 'File-Organizer'
